@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About on Container Gardening</title>
+    <link>http://localhost:1313/about/</link>
+    <description>Recent content in About on Container Gardening</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 15 Mar 2024 14:36:13 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Privacy</title>
+      <link>http://localhost:1313/about/privacy/</link>
+      <pubDate>Fri, 15 Mar 2024 14:36:13 +0000</pubDate>
+      <guid>http://localhost:1313/about/privacy/</guid>
+      <description>Privacy Policy for Container Gardens Effective Date: 2024-03-15&#xA;At Container Gardens, we are committed to protecting your privacy. This Privacy Policy outlines the types of information we collect from our users, how we use it, and the steps we take to ensure your personal information is handled securely.&#xA;Information Collection Personal Information: We collect personal information when you sign up for our services, place an order, or interact with our customer service.</description>
+    </item>
+  </channel>
+</rss>
